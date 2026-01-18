@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/状态-持续更新-green" alt="状态">
-  <img src="https://img.shields.io/badge/始于-2024.03-blue" alt="开始时间">
+  <img src="https://img.shields.io/badge/始于-2025.01-blue" alt="开始时间">
   <img src="https://img.shields.io/badge/许可证-MIT-success" alt="许可证">
 </p>
 
@@ -60,3 +60,25 @@
   - 完成项目: 8 个
   - LeetCode: 127 题
   - 持续更新: 28 天
+📚 详细文档
+想要了解更多细节？请查看我们的详细文档：
+
+完整概述 - 仓库的详细说明和结构
+
+学习路线 - 系统的学习计划和路线图
+
+项目展示 - 所有项目的详细介绍
+
+贡献指南 - 如何参与和贡献
+
+🤝 交流互动
+欢迎通过以下方式交流：
+
+💬 GitHub Discussions - 技术讨论
+
+🐛 Issues - 问题反馈
+
+📧 邮箱: Hansirqin@163.com
+
+📄 许可证
+本项目采用 MIT 许可证 - 查看 LICENSE 文件了解详情。
